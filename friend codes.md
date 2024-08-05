@@ -1,4 +1,4 @@
-| Item              | In Stock | Price |
+| Game/Platform              | Region | Code |
 | :----------------: | :------: | :----: |
 | Nintendo Switch        | - | SW-2330-1302-7257 |
 | Blue Archive           | EU | AYYHCXDE |
