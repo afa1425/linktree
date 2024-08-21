@@ -1,5 +1,8 @@
+let me know when you add me somewhere so i don't remove you when cleaning up
+
 | Game/Platform | Region | Code | Notes |
 | :-: | :-: | :-: | :-: |
+| Steam | | 890753527 | |
 | Nintendo Switch | | SW-2330-1302-7257 | |
 | Pretendo (3DS) | | 5167-7890-6779 | |
 | Blue Archive | EU | AYYHCXDE | auto accept enabled |
