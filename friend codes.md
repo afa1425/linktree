@@ -1,3 +1,5 @@
+# NOTE
+**let me know when you add me somewhere so i don't remove you when cleaning up**
 
 | Game/Platform | Region | Code | Notes |
 | :-: | :-: | :-: | :-: |
@@ -9,5 +11,3 @@
 | Pokemon TCG Pocket | | 5592253708957024 | |
 | Genshin Impact | NA | 622446984 | quit |
 | Fate/Grand Order | NA | 179,924,033 | quit |
-
-# let me know when you add me somewhere so i don't remove you when cleaning up
