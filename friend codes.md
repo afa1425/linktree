@@ -1,5 +1,4 @@
-# NOTE
-### let me know when you add me somewhere so i don't remove you when cleaning up
+# let me know when you add me somewhere so i don't remove you when cleaning up
 
 | Game/Platform | Region | Code | Notes |
 | :-: | :-: | :-: | :-: |
