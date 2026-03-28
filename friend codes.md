@@ -4,7 +4,6 @@
 | :-: | :-: | :-: | :-: |
 | Steam | | 890753527 | |
 | Nintendo Switch | | SW-2330-1302-7257 | |
-| Pretendo (3DS) | | 5167-7890-6779 | |
 | | | |
 | | | |
 | Blue Archive | EU | AYYHCXDE | auto accept enabled |
