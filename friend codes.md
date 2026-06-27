@@ -1,4 +1,4 @@
-# let me know when you add me somewhere so i don't remove you when cleaning up 
+# let me know when you add me somewhere so i don't remove you when cleaning up
 
 | Game/Platform | Region | Code | Notes |
 | :-: | :-: | :-: | :-: |
@@ -6,7 +6,7 @@
 | Nintendo Switch | | SW-2330-1302-7257 | |
 | | | |
 | | | |
-| Blue Archive | EU | AYYHCXDE | auto accept enabled |
+| Blue Archive | EU | Friend: AYYHCXDE<br>Club: 666 | auto accept enabled |
 | Snowbreak | EU | 11577369 | |
 | Pokemon TCG Pocket | | 5592253708957024 | |
 | Umamusume Pretty Derby | Global | 761179371468 | |
