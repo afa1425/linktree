@@ -7,10 +7,10 @@
 | | | |
 | | | |
 | Blue Archive | EU | Friend: AYYHCXDE<br>Club: 666 | auto accept enabled |
-| Snowbreak | EU | 11577369 | |
 | Pokemon TCG Pocket | | 5592253708957024 | |
-| Umamusume Pretty Derby | Global | 761179371468 | |
 | | | |
 | | | |
 | Genshin Impact | NA | 622446984 | quit |
 | Fate/Grand Order | NA | 179924033 | quit |
+| Umamusume Pretty Derby | Global | 761179371468 | quit |
+| Snowbreak | EU | 11577369 | quit, eos soon probably |
